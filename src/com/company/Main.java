@@ -23,5 +23,8 @@ public class Main {
             System.out.println("остаться дома");
         }
     }
+    public static void switchR(){
+
+    }
 
 }
